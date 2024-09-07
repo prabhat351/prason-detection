@@ -1,0 +1,5 @@
+opencv-python==4.10.0
+torch==2.0.1
+ultralytics==8.0.80
+matplotlib==3.7.2
+deep-sort-realtime==0.2.10
